@@ -1,5 +1,8 @@
 ![](demo.gif)
 
+### .env 
+Please update two .env files for ADK agent and Agent engine/Agentspace
+
 ## Step 1 : Run the ADK Agent locally
 ```bash 
 adk web
